@@ -1,0 +1,2 @@
+# secbyte-rfid-nfc-card-cloning-hardware-hacking-firmware-ctf-labs
+A practical collection of cybersecurity CTF labs covering RFID/NFC contactless card cloning (MIFARE Classic, TapTrace, access badge forensics), hardware reverse engineering (controller teardowns, EEPROM memory analysis, logic analyzers, SPI/I2C protocol sniffing), and embedded firmware exploitation (secure boot bypass, bootloader extraction).
